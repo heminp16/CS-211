@@ -44,26 +44,3 @@ int main(int argc, char* argv[]) {
    return 0;
 
 }
-
-//broken codes 
- //   for (i = 2; i *i <= n; ++i) {
- //       if (checkPrime(i) == 1) {  
- //           if (checkPrime(x) == 1) {
- //               if(checkPrime(n-4)==1){
- //                   printf("%d = %d + %d + %d\n", n, i, x, n-4);
-  //                  flag = 1;
-  // printf("%d = %d + %d + %d\n", n, i, x, n-4);
-   
-
-
-//for (i = 2; i *i <= n; ++i) {
-//for (i = 2; i <= n / 2; ++i) {
-
-//though process
-
-//which states that every odd number greater than !!5!! is the sum of three primes.
-// write this ->  ./goldbach 7
-//7 = 2 + 2 + 3
-//ans= x + y + z
-//ANYY prime numbers 2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61
-// odd numbers 5, 7, 9, 11, 13, 15, 17, 19, 21, 23, 25, 27, 29, 31 
